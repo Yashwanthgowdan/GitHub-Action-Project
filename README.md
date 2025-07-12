@@ -16,6 +16,7 @@ Push to staging: Triggers full pipeline and deploys to staging.
 
 Environment Secrets:
 To enable deployments, add the following secrets to your repository in Settings → Secrets → Actions:
+
 EC2_IP
 EC2_NAME
 EC2_SSH
